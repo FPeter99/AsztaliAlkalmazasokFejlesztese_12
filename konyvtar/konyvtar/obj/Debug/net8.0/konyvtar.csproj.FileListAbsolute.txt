@@ -1,0 +1,46 @@
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\bin\Debug\net8.0\konyvek.txt
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\bin\Debug\net8.0\konyvtar.exe
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\bin\Debug\net8.0\konyvtar.deps.json
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\bin\Debug\net8.0\konyvtar.runtimeconfig.json
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\bin\Debug\net8.0\konyvtar.dll
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\bin\Debug\net8.0\konyvtar.pdb
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\bin\Debug\net8.0\konyvtar_LIB.dll
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\bin\Debug\net8.0\konyvtar_LIB.pdb
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\obj\Debug\net8.0\konyvtar.csproj.AssemblyReference.cache
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\obj\Debug\net8.0\konyvtar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\obj\Debug\net8.0\konyvtar.AssemblyInfoInputs.cache
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\obj\Debug\net8.0\konyvtar.AssemblyInfo.cs
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\obj\Debug\net8.0\konyvtar.csproj.CoreCompileInputs.cache
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\obj\Debug\net8.0\konyvtar.csproj.Up2Date
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\obj\Debug\net8.0\konyvtar.dll
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\obj\Debug\net8.0\refint\konyvtar.dll
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\obj\Debug\net8.0\konyvtar.pdb
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\obj\Debug\net8.0\konyvtar.genruntimeconfig.cache
+C:\Users\laczk\Documents\GitHub\asztali-alkalmazasok-fejlesztese-orai-munkak\Órai munkák\konyvtar_feladat\konyvtar\obj\Debug\net8.0\ref\konyvtar.dll
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar_feladat\konyvtar\obj\Debug\net8.0\konyvtar.csproj.AssemblyReference.cache
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar_feladat\konyvtar\obj\Debug\net8.0\konyvtar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar_feladat\konyvtar\obj\Debug\net8.0\konyvtar.AssemblyInfoInputs.cache
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar_feladat\konyvtar\obj\Debug\net8.0\konyvtar.AssemblyInfo.cs
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar_feladat\konyvtar\obj\Debug\net8.0\konyvtar.csproj.CoreCompileInputs.cache
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar_feladat\konyvtar\obj\Debug\net8.0\konyvtar.dll
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar_feladat\konyvtar\obj\Debug\net8.0\refint\konyvtar.dll
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar_feladat\konyvtar\obj\Debug\net8.0\konyvtar.pdb
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\bin\Debug\net8.0\konyvek.txt
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\bin\Debug\net8.0\konyvtar.exe
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\bin\Debug\net8.0\konyvtar.deps.json
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\bin\Debug\net8.0\konyvtar.runtimeconfig.json
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\bin\Debug\net8.0\konyvtar.dll
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\bin\Debug\net8.0\konyvtar.pdb
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\bin\Debug\net8.0\konyvtar_LIB.dll
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\bin\Debug\net8.0\konyvtar_LIB.pdb
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\obj\Debug\net8.0\konyvtar.csproj.AssemblyReference.cache
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\obj\Debug\net8.0\konyvtar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\obj\Debug\net8.0\konyvtar.AssemblyInfoInputs.cache
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\obj\Debug\net8.0\konyvtar.AssemblyInfo.cs
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\obj\Debug\net8.0\konyvtar.csproj.CoreCompileInputs.cache
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\obj\Debug\net8.0\konyvtar.csproj.Up2Date
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\obj\Debug\net8.0\konyvtar.dll
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\obj\Debug\net8.0\refint\konyvtar.dll
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\obj\Debug\net8.0\konyvtar.pdb
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\obj\Debug\net8.0\konyvtar.genruntimeconfig.cache
+D:\Peti\suli\12\asztali\gitlab\hataratkelok\konyvtar\konyvtar\obj\Debug\net8.0\ref\konyvtar.dll
