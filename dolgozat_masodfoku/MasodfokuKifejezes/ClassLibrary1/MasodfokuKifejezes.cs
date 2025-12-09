@@ -2,9 +2,9 @@
 {
     public class MasodfokuKifejezes
     {
-        readonly double a;
-        readonly double b;
-        readonly double c;
+        public double a {get; init;}
+        public double b {get; init;}
+        public double c {get; init;}
         public MasodfokuKifejezes(double a, double b, double c)
         {
             this.a = a;
@@ -48,3 +48,4 @@
         }
     }
 }
+
