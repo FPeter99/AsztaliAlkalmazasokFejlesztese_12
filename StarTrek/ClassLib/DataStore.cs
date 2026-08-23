@@ -32,9 +32,6 @@ namespace ClassLib
         public void ExportToJson() 
         {
             File.WriteAllText("fajok.json", JsonSerializer.Serialize(fajok, new JsonSerializerOptions { WriteIndented = true }));
-            File.WriteAllText("asd", "asd");
-
-
         }
     }
 }
